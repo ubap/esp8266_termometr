@@ -4,7 +4,7 @@ require('ds18b20')
 
 -------------------------- CONFIG START ----------------------
 FREQ    = 20000
-KEY     = '4CBYEDDE0F887Z3A'
+KEY     = 'KEYKEYKEYKEYKEY'
 ----------- CONFIG -----------
 
 TIMEOUT    		= 30*1000000 -- 30s
