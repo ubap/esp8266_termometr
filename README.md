@@ -1,1 +1,1 @@
-This project is an IoT temperature sennsor that sends data to ThingSpeak.
+This project is an IoT temperature sensor that sends data to ThingSpeak.
